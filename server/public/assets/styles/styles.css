@@ -1,0 +1,38 @@
+.active:focus {
+    background-color: blue;
+    outline: none;
+    color: white;
+}
+
+.btnRandom {
+    background-color: white;
+    outline: none;
+}
+
+#groupContainer1{
+    background-color: darkgray;
+}
+
+#groupContainer2{
+    background-color: lightgrey;
+}
+
+.group1, .group2, .group3, .group4, .group5, .group6, .group7, .group8, .group9, .group10, .group11{
+    width: 150px;
+    padding: 5px;
+    float: left;
+    display: block;
+    min-height: 200px;
+
+}
+
+.btn {
+    height: 20px;
+    width: 30px;
+    background-color: white;
+
+}
+
+.btn:focus {
+    outline: none;
+}

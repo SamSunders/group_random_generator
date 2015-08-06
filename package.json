@@ -1,0 +1,19 @@
+{
+  "name": "solo_random_groupmaker",
+  "version": "1.0.0",
+  "description": "A solo project where we create a random group generator",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server/app.js"
+  },
+  "author": "Samantha Sunders",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.13.3",
+    "grunt-contrib-copy": "^0.8.0",
+    "grunt-contrib-uglify": "^0.9.1",
+    "jquery": "^2.1.4",
+    "path": "^0.11.14"
+  }
+}
